@@ -74,3 +74,6 @@ protected:
 ![tool-manager](https://ys-ue4-pluginmall.oss-cn-chengdu.aliyuncs.com/2021-05-25_100140.png)
 #### 3.4The Singleton Class down menu Singleton Class, can return to the Singleton instance, need not again
 ![tool-manager](https://ys-ue4-pluginmall.oss-cn-chengdu.aliyuncs.com/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210525095750.png)
+
+## Support: 1655753014@qq.com
+
