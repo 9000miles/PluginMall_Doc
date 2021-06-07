@@ -3,9 +3,9 @@
 ---
 ### 1. Introduction
 
-	Just inherited USingleton Base can be realized the singleton pattern, can use c + + and blueprint, provides global access functions, the singleton Instance and UGame Instance Shared life cycle.
+Just inherited USingleton Base can be realized the singleton pattern, can use c + + and blueprint, provides global access functions, the singleton Instance and UGame Instance Shared life cycle.
 
-	It is much more useful than UgameInstanceSubSystem because it is easier to control the timing of the instantiation and to work with other modules, such as the need to mount the Lua script on the object and then need to instantiate the instance object after the other modules have initialized it.UsingletonSystem fills this gap. It is an easy way to create a Blueprint class that is similar to but more extensible than UgameInstanceSubSystem.Convenient, simple and efficient development.
+It is much more useful than UgameInstanceSubSystem because it is easier to control the timing of the instantiation and to work with other modules, such as the need to mount the Lua script on the object and then need to instantiate the instance object after the other modules have initialized it.UsingletonSystem fills this gap. It is an easy way to create a Blueprint class that is similar to but more extensible than UgameInstanceSubSystem.Convenient, simple and efficient development.
 ### 2. Used in c + +
 ### 2. 1In c + + to create a Singleton class, see UCpp Singleton Example Example
 ```C++
