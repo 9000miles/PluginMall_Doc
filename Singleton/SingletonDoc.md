@@ -62,6 +62,10 @@ protected:
 		System->GetSingleton<UCppSingletonExample>()->GetNowTime();
 	}
 ```
+#### 2.2.3 Through the USingletonSystem template method get singleton instance
+```C++
+	USingletonSystem::Get<UCppSingletonExample>()->GetNowTime();
+```
 ### 3. Used in the blueprint
 #### 3.1 First of all confirm the plug-in has been open
 ![tool-manager](https://ys-ue4-pluginmall.oss-cn-chengdu.aliyuncs.com/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210525093832.png)
